@@ -1,5 +1,11 @@
 # nextra
 
+## 2.2.19
+
+### Patch Changes
+
+- a1e59b2: Support Markdown links with query or anchor.
+
 ## 2.2.18
 
 ### Patch Changes
